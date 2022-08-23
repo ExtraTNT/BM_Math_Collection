@@ -1,0 +1,1 @@
+ ![{\displaystyle \textstyle {\rm {e=\lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n}}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/c73881076faa33cdf8e028913c77b1ae2b9ab362)
