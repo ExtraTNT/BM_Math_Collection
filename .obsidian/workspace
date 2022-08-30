@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "fcc70c06a4a837a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0f789ef5a15a56e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dichte.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "53a858788bbecc72",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Symbols.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db5a0d91b49e0774",
+    "type": "split",
+    "children": [
+      {
+        "id": "f25b324496ad98cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cf10ec856035229",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "79f3b3a0359362e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ebdf84983611287",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9776c470a4639d48",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a76cab5473ff8b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aa81e9413598d35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dichte.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a963e7dad613a5e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dichte.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00c07f3d7eb782b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbaf74f537b33322",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dichte.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a0f789ef5a15a56e",
+  "lastOpenFiles": [
+    "Symbols.md",
+    "Dichte.md",
+    "Index.md",
+    "Gewichtskraft.md",
+    "README.md",
+    "Intervalle.md"
+  ]
+}
