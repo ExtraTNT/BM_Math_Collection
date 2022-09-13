@@ -1,6 +1,6 @@
 Zahlenstrahl siehe [[Zahlenmengen]]
 [[Natürliche Zahlen]] 0 . . .
-[[Ganze Zahlen]] . . 0 . .
+[[GanzeZahlen]] . . 0 . .
 [[Rationale Zahlen]] ,,,.,,,.,,,0,,,.,,,.,,,
 [[Reelle Zahlen]] ---------------0-------------------
 

@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "d8ddf68ced54414c",
+        "id": "b0280ad2b4e74f4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lineare gleichungen.md",
+            "file": "DezimalZahlen.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lineare gleichungen.md",
+                "file": "DezimalZahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lineare gleichungen.md",
+                "file": "DezimalZahlen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lineare gleichungen.md"
+                "file": "DezimalZahlen.md"
               }
             }
           }
@@ -140,14 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8ddf68ced54414c",
+  "active": "b0280ad2b4e74f4e",
   "lastOpenFiles": [
+    "EulerscheZahl.md",
+    "GanzeZahlen.md",
+    "IrrationaleZahlen.md",
+    "KomplexeZahlen.md",
+    "lineareGleichungen.md",
+    "Gleichungssysteme.md",
     "Symbols.md",
-    "lineare gleichungen.md",
     "Index.md",
     "Dichte.md",
-    "Gewichtskraft.md",
-    "README.md",
-    "Intervalle.md"
+    "Gewichtskraft.md"
   ]
 }
