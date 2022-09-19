@@ -26,3 +26,16 @@ Eine solche Gleichung hat
 	0x + b = 0
 	b = 0, Wiederspruch, da b  ≠ 0
 	L = {}
+
+### 2x2 Lineare [[Gleichungssysteme]]
+Sei a1x \*  b1y = c1
+a2x \* b2y = c2
+Dann beschreibt jede Gleichung eine Gerade im Koordinatensystem
+Das Gleichungssystem hat dann entweder 1, ja oder 0 lösungen
+
+## Lösungsmethoden
+### 1 Aditionsverfahren
+
+### 2 Einsetzungsverfahren
+
+### 3 Gleichsetzungsverfahren

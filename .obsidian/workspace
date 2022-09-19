@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a0f789ef5a15a56e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Symbols.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "b0280ad2b4e74f4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DezimalZahlen.md",
+            "file": "lineareGleichungen.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DezimalZahlen.md",
+                "file": "lineareGleichungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DezimalZahlen.md",
+                "file": "lineareGleichungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DezimalZahlen.md"
+                "file": "lineareGleichungen.md"
               }
             }
           }
@@ -142,15 +130,15 @@
   },
   "active": "b0280ad2b4e74f4e",
   "lastOpenFiles": [
+    "- Index.md",
+    "Hetrogen.md",
+    "Symbols.md",
+    "Homogen.md",
+    "Gleichungssysteme.md",
+    "DezimalZahlen.md",
     "EulerscheZahl.md",
     "GanzeZahlen.md",
     "IrrationaleZahlen.md",
-    "KomplexeZahlen.md",
-    "lineareGleichungen.md",
-    "Gleichungssysteme.md",
-    "Symbols.md",
-    "Index.md",
-    "Dichte.md",
-    "Gewichtskraft.md"
+    "KomplexeZahlen.md"
   ]
 }
