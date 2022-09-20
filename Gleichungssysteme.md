@@ -10,3 +10,5 @@ Ein[ lineares Gleichungssystem](lineareGleichungen) mit 2 Unbekannten und 2 Glei
 a1x + b1y = c1 I
 a2x + b2y = c2 II
 mit dem Koeffizienten ak, bk, ck (k 1,2...) 
+
+Ein [[Nicht-Lineare Gleichungssysteme]] mit 2 Unbekanten und 2 Gleichungen (2x2)

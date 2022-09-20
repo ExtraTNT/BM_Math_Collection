@@ -39,3 +39,4 @@ Das Gleichungssystem hat dann entweder 1, ja oder 0 lösungen
 ### 2 Einsetzungsverfahren
 
 ### 3 Gleichsetzungsverfahren
+
