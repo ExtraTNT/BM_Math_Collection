@@ -1,0 +1,1 @@
+Math-Index: [[Symbols]], [[Zahlenmengen]], [[Intervalle]], [[BinomischeFormeln]] [[Gleichungssysteme]]

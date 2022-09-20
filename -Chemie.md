@@ -1,0 +1,1 @@
+Chemie-Index: [[Homogen]] vs [[Hetrogen]]

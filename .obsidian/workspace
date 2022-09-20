@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b0280ad2b4e74f4e",
+        "id": "0462b3759584adf8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gleichungssysteme.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "70c303f930110426",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "- Index.md",
+            "file": "Nicht-Lineare Gleichungssysteme.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- Index.md",
+                "file": "Nicht-Lineare Gleichungssysteme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- Index.md",
+                "file": "Nicht-Lineare Gleichungssysteme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "- Index.md"
+                "file": "Nicht-Lineare Gleichungssysteme.md"
               }
             }
           }
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "70c303f930110426",
+  "active": "0462b3759584adf8",
   "lastOpenFiles": [
-    "Nicht-Lineare Gleichungssysteme.md",
     "Gleichungssysteme.md",
     "lineareGleichungen.md",
+    "-Math.md",
     "- Index.md",
+    "Nicht-Lineare Gleichungssysteme.md",
     "Hetrogen.md",
     "Symbols.md",
     "Homogen.md",
     "DezimalZahlen.md",
-    "EulerscheZahl.md",
-    "GanzeZahlen.md"
+    "EulerscheZahl.md"
   ]
 }
